@@ -1,5 +1,7 @@
 # lua-mechanic-Converted-to-Qbus
 
+# BY  Joserra#0394
+
 ## Dependencies
 
 ### [qb-garages](https://github.com/qbcore-framework/qb-garages).
