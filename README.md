@@ -16,5 +16,16 @@ ensure lua-mechanic
 ensure qb-garages
 ```
 
+## Config 
+
+```
+Go to the lua-mechanic\config\config.lua 
+And modify
+
+pos = {x = -32.11, y = -1066.03, z = 28.4},
+
+By the coordinates where you want the menu to be
+```
+
 ## Preview
 
