@@ -12,14 +12,14 @@
 - Add the following code to your server.cfg/resouces.cfg
 
 ```
-ensure lua-mechanic
+ensure ki-mechanic
 ensure qb-garages
 ```
 
 ## Config 
 
 ```
-Go to the lua-mechanic\config\config.lua 
+Go to the ki-mechanic\config\config.lua 
 And modify
 
 pos = {x = -32.11, y = -1066.03, z = 28.4},
